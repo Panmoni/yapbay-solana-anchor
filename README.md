@@ -1,4 +1,4 @@
-# LocalSolana Escrow Contract
+# YapBay Sequential Escrow System Program
 
 ## Overview
 This is a Solana smart contract built using the Anchor framework, designed to facilitate secure escrow transactions between a buyer and a seller, with support for dispute resolution handled by a hardcoded arbitrator. The contract uses USDC (a token with 6 decimals) and includes features such as sequential trades, deadlines, fees, and a dispute bond mechanism.
